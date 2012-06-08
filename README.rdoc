@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Test Content
-=======
-Welcome to My First app...!!!!
->>>>>>> modify-README
+Test App contents...!!
